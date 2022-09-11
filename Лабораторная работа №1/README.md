@@ -53,13 +53,14 @@
 |     n         |     время     |
 | ------------- | ------------- |
 |      1000     |    15.355ms   |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|      2000     |    18.314ms   |
+|      4000     |    26.826ms   |
+|      8000     |    65.235ms   |
+|     16000     |    217.123ms  |
+|     32000     |    824.947ms  |
+|     64000     |    3.237s     |
+|    128000     |    12.929s    |
+|    256000     |    51.717s    |
 
 
 
