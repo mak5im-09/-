@@ -50,6 +50,19 @@
 
 ## Время сортировки при росте количества элементов
 
+|     n         |     время     |
+| ------------- | ------------- |
+|      1000     |    15.355ms   |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
 >     n   |  время
 > 1000    | 15.355ms
 > 
